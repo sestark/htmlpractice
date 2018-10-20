@@ -1,0 +1,11 @@
+body {
+	backround-color: pink;
+}
+
+h1 {
+	text-align: center;
+}
+
+ul.square{
+list-style-type: square;
+}
